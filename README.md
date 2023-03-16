@@ -1,4 +1,4 @@
-# Stock-Data-Analysis-using-Machine-and-Ensemble-Learning-Models_0
+# Nifty50_Stock-Data-Analysis-using-Machine-and-Ensemble-Learning-Models_0
 - This model predict the market will close up or down tomorrow relative to today's close price.
 
 ## Requirements :
